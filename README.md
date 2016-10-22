@@ -27,8 +27,9 @@ While is not required it would be great if you could make a local
 recording. There are numerous solutions.
 
 - On macOS - simply use QuickTime
-- On all thre platform the open source tool
+- On all three platform the open source tool
   [Audacity](http://www.audacityteam.org/) can be used
 
 After the recording upload the file (e.g. wav or flac) to web based
 stroge of your choice and make the link accessible to us.
+
