@@ -7,12 +7,30 @@ talk with us - we really appriciate it.
 
 ## Internet connection
 
-Ideally connect your computer via ethernet in order have the best
-connection.
+Ideally connect your computer via ethernet in order to have the best
+connection. WiFi will work, but always runs the risk of dropouts (and
+has done so quite a few times).
 
 ## Microphone / Headset
 
-Please use a headset idealy with microphone.
+If you can, please always use headphones, otherwise your microphone
+will also take up the sound from your loudspeakers, resulting in echo
+or feedback.
+
+Please try to avoid using the built-in microphones of your
+computer/notebook,as these are usually not too good and will also take
+up a lot of the room and noises from typing or just touching the desk
+it stands on.
+
+A headset, combination of microphone and headphones, is a convenient
+solution. There are a lot of headset often used for VoIP conferences,
+Skype calls, or delivered with your mobile phone. Not all of them do
+sound good, so let us know what you have (and sometimes a little test
+run would also be helpful).
+
+Using a proper microphone will help providing the best audio quality,
+however not everybvody has one at hand. If you're not sure about your
+setup, let us know and we'll figure it out together.
 
 ## Studio Link
 
@@ -30,6 +48,8 @@ recording. There are numerous solutions.
 - On all three platform the open source tool
   [Audacity](http://www.audacityteam.org/) can be used
 
-After the recording upload the file (e.g. wav or flac) to web based
-stroge of your choice and make the link accessible to us.
+You will find a short section about local backup recording [in the video](https://youtu.be/nDuCgK41kE8?t=9m) we've provided.
+
+After the recording upload the file (e.g. wav or flac) to web-based
+storage of your choice and make the link accessible to us.
 
